@@ -1,0 +1,9 @@
+D;JMP
+(loop)
+@2
+D=A
+@3
+D=D+A
+(www)
+@loop
+M=D;JMP
